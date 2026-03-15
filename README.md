@@ -6,7 +6,6 @@ A To-Do list application built using HTML, CSS, and JavaScript.
 - Add tasks
 - Delete tasks
 - Mark tasks as completed
-- Delete all tasks
 - Tasks saved after refresh using localStorage
 
 ## Technologies Used
